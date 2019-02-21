@@ -1,0 +1,38 @@
+p {
+    text-align: center;
+    width: 650px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120pt;
+    letter-spacing: -5pt;
+    color: rgb(255, 255, 255);
+    
+}
+h3{
+    text-align: center;
+    color: rgb(255, 49, 100);
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.imagencentro{
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+body{
+    background-color: rgb(209, 209, 209);
+    
+}
+
+.behancecentro{
+    text-align: center;
+    margin-bottom: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
